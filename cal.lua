@@ -36,3 +36,4 @@ local url1 = string.gsub(url, "%/distribute", "")
 print(url1)
 
 print("test")
+print("test2")
