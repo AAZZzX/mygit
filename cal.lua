@@ -32,4 +32,7 @@ print(string.find("12346", ""))
 
 local url = "http://58.23.237.224:8888/frontend/distribute"
 local url1 = string.gsub(url, "%/distribute", "")
+
 print(url1)
+
+print("test")
